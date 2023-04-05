@@ -7682,3 +7682,7 @@ img.bnr {
     -webkit-text-fill-color: transparent;
 }
 }
+
+.ardyunq img {
+    transform: none !important
+}
