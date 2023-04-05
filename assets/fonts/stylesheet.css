@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Bokonique';
+    src: url('Bokonique-LightItalic.woff2') format('woff2'),
+        url('Bokonique-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bokonique';
+    src: url('Bokonique-Italic.woff2') format('woff2'),
+        url('Bokonique-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bokonique';
+    src: url('Bokonique-Bold.woff2') format('woff2'),
+        url('Bokonique-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bokonique';
+    src: url('Bokonique-Regular.woff2') format('woff2'),
+        url('Bokonique-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bokonique';
+    src: url('Bokonique-BoldItalic.woff2') format('woff2'),
+        url('Bokonique-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bokonique';
+    src: url('Bokonique-Light.woff2') format('woff2'),
+        url('Bokonique-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
